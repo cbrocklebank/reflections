@@ -19,6 +19,10 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Branches are good for changes that aren't ready to deploy. Experimental
+  features can be tested without disrupting production code. If they work out,
+  they can be merged.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
